@@ -1,0 +1,6 @@
+[iggy-embedded]
+wifi_ssid = "example"
+wifi_psk = "example"
+tcp_server = "host:port"
+username = "example"
+password = "example"
